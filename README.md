@@ -4,7 +4,7 @@ Tool get poxy super vip created by Ng Quan
 
 `git clone https://github.com/Nguyenquanxinhgai/poxy-supervip.git`
 
-`cd getproxy`
+`cd poxy-supervip`
 
 `python3 -m pip install -r requirements.txt` or `pip3 install -r requirements.txt`
 
