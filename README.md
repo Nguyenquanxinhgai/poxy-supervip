@@ -8,7 +8,7 @@ Tool get poxy super vip created by Ng Quan
 
 `python3 -m pip install -r requirements.txt` or `pip3 install -r requirements.txt`
 
-`python3 gp.pt`
+`python3 poxy.pt`
 
 # INSTALL FOR WINDOWS
 
@@ -16,7 +16,7 @@ Download source code file and UNZIP File
 
 `cd getproxy-master`
 
-`python gp.py`
+`python poxy.py`
 
 # Tool interface
 ![Screenshot (63)](https://user-images.githubusercontent.com/93322212/153748845-008dc236-9e14-4d16-be7f-5715c36c770b.png?raw=true)
