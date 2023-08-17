@@ -2,7 +2,7 @@
 Tool get poxy super vip created by Ng Quan
 # INSTALL FOR LINUX
 
-`git clone https://github.com/sonvan1811/getproxy.git`
+`git clone https://github.com/Nguyenquanxinhgai/poxy-supervip.git`
 
 `cd getproxy`
 
